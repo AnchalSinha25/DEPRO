@@ -8,6 +8,34 @@ https://lucid.app/lucidchart/ae7476f5-63ec-45e8-b324-9cdea9e47b88/edit?invitatio
 
 ![image](https://github.com/AnchalSinha25/DEPRO/assets/89031662/a4e4f177-7dec-4caf-b03c-8911a37a3652)
 
+    +---------------------+
+    |                     |
+    |   Azure Data        |
+    |   Factory           |
+    |                     |
+    +---------+-----------+
+              |
+              |
+              v
+    +---------------------+       +-----------------------+
+    |                     |       |                       |
+    |   Azure Spark       +------->   Other Azure         |
+    |   Streaming         |       |   Platforms (e.g.,    |
+    |                     |       |   Blob Storage,       |
+    +---------------------+       |   SQL Database,       |
+                                  |   Synapse Analytics,  |
+                                  |   etc.)               |
+                                  +-----------+-----------+
+                                              |
+                                              |
+                                              v
+                                      +---------------+
+                                      |               |
+                                      |   Data Sink   |
+                                      |               |
+                                      +---------------+
+
+
 
 ![image](https://github.com/AnchalSinha25/DEPRO/assets/89031662/3289ff38-7ff4-4703-bc90-c9723f69e7a8)
 
