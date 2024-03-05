@@ -35,7 +35,9 @@ https://lucid.app/lucidchart/ae7476f5-63ec-45e8-b324-9cdea9e47b88/edit?invitatio
                                       |               |
                                       +---------------+
 
-
+**Azure Data Factory** is connected to Azure Spark Streaming, indicating data ingestion or processing.
+**Azure Spark Streaming** may be connected to various Azure platforms (represented by "Other Azure Platforms") where it ingests data from or sends processed data to.
+Data processed by Azure Spark Streaming may flow to a data sink or other processing steps, represented as "Data Sink."
 
 ![image](https://github.com/AnchalSinha25/DEPRO/assets/89031662/3289ff38-7ff4-4703-bc90-c9723f69e7a8)
 
